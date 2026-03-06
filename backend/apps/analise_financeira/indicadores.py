@@ -1,0 +1,1 @@
+# Cálculo de indicadores financeiros

@@ -1,0 +1,14 @@
+
+Wireframe - Tela de Upload
+
++-------------------------------------+
+| Sistema de Análise Financeira       |
++-------------------------------------+
+| Selecionar empresa                  |
+| [ dropdown ]                        |
+|                                     |
+| Upload de documento financeiro      |
+| [ escolher arquivo ]                |
+|                                     |
+| [ Enviar ]                          |
++-------------------------------------+
