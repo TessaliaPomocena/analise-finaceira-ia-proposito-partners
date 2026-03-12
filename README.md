@@ -18,29 +18,29 @@ para apoio à tomada de decisão.
 
 ## Estrutura do Projeto
 
-analise-financeira-ia/
+analise-financeira-ia/  
+│  
+├── backend/  
+│   ├── config/  
+│   ├── apps/  
+│   │   ├── usuarios/  
+│   │   ├── empresas/  
+│   │   ├── documentos/  
+│   │   ├── analise_financeira/  
+│   │   └── relatorios/  
+│  
+├── frontend/  
+│   ├── pages/  
+│   ├── components/  
+│   └── services/  
 │
-├── backend/
-│   ├── config/
-│   ├── apps/
-│   │   ├── usuarios/
-│   │   ├── empresas/
-│   │   ├── documentos/
-│   │   ├── analise_financeira/
-│   │   └── relatorios/
-│
-├── frontend/
-│   ├── pages/
-│   ├── components/
-│   └── services/
-│
-├── database/
-│   └── scripts_sql/
-│
-├── docs/
-│   ├── diagramas/
-│   └── wireframes/
-│
+├── database/  
+│   └── scripts_sql/  
+│  
+├── docs/  
+│   ├── diagramas/  
+│   └── wireframes/  
+│  
 └── README.md
 
 ## Funcionalidades MVP
