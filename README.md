@@ -55,8 +55,8 @@ analise-financeira-ia/
 Projeto acadêmico em desenvolvimento.
 
 ## Equipe
-Alessandro Werner Bucker
-Gabriel Rodrigo Marques Duglokinski
-Marlon Pires Mendes
-Samara Malta de Faria da Silva
-Tessália Pomocena dos Santos
+- Alessandro Werner Bucker
+- Gabriel Rodrigo Marques Duglokinski
+- Marlon Pires Mendes
+- Samara Malta de Faria da Silva
+- Tessália Pomocena dos Santos
